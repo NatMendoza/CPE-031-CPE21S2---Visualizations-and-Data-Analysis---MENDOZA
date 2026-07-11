@@ -1,10 +1,6 @@
 <h1 align="center">Hello! I'm Mendoza, Nathaniel B.</h1>
 <h3 align="center">A Computer Engineering Student at Technological Institute of The Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natmendoza&label=Profile%20views&color=0e75b6&style=flat" alt="natmendoza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natmendoza" alt="natmendoza" /></a> </p>
-
 - Currently Learning: **Python, C++**
 
 - Reach me **qnmendoza@tip.edu.ph/psyemerald58@gmail.com**

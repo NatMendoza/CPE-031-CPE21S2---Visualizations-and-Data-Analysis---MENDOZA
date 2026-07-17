@@ -1,20 +1,28 @@
 <div align="center">
 
-# 📊 Visualizations and Data Analysis
+# 📊 CPE 031 – Visualizations and Data Analysis
 
-### *Course Portfolio & Laboratory Activities*
+### *Course Portfolio • Laboratory Activities • Projects*
 
-<img src="https://img.shields.io/badge/Course-Visualizations%20%26%20Data%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20031-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NatMendoza&label=Repository%20Views&color=0e75b6&style=for-the-badge"/>
 
 ---
 
-# 👋 Hello! I'm **Mendoza, Nathaniel B.**
+# 👋 Hello! I'm **Nathaniel B. Mendoza**
 
 ### 🎓 Computer Engineering Student
-### Technological Institute of the Philippines - Quezon City
 
-*"Exploring data, discovering insights, and transforming information into meaningful visualizations."*
+**Technological Institute of the Philippines – Quezon City**
+
+*"Transforming raw data into meaningful insights through visualization and analysis."*
 
 </div>
 
@@ -22,32 +30,75 @@
 
 # 📖 About This Repository
 
-This repository contains my outputs for the **Visualizations and Data Analysis** course. It serves as a portfolio of my laboratory exercises, assignments, programming activities, and projects completed throughout the semester.
+Welcome!
 
-As the course progresses, this repository will continue to grow with new activities, datasets, and data visualization projects.
+This repository contains my laboratory exercises, assignments, projects, and course outputs for **CPE 031 – Visualizations and Data Analysis**.
+
+Throughout the semester, I will document my progress as I learn the fundamentals of:
+
+- 📈 Data Analytics
+- 📊 Data Visualization
+- 📉 Exploratory Data Analysis
+- 🤖 Artificial Intelligence
+- 🗄️ Big Data Concepts
+- 📊 Dashboard Design
+- 🎨 Visual Storytelling
+- ✅ Ethical Data Communication
+
+This repository also serves as my personal portfolio for the course.
 
 ---
 
 # 🎯 Course Objectives
 
-Throughout this course, I aim to:
+This course develops the ability to transform raw data into meaningful visual insights that support informed decision-making.
 
-- 📈 Analyze real-world datasets
-- 📊 Create informative visualizations
-- 🧹 Clean and prepare data for analysis
-- 📚 Interpret data using statistical methods
-- 🐍 Strengthen my Python programming skills
-- 💡 Develop problem-solving techniques through data analysis
+By the end of the course, I aim to:
+
+- 📊 Select appropriate visualization techniques for different datasets
+- 📈 Create informative charts and dashboards
+- 📉 Analyze and interpret data effectively
+- 🎨 Apply visualization design principles
+- 🤖 Understand the role of AI and Machine Learning in Data Analytics
+- ✅ Communicate data ethically and accurately
+
+---
+
+# 🗂️ Course Topics
+
+## 📘 Prelim
+
+- Introduction to Data Analytics
+- What is Data?
+- Business Understanding
+- Data Collection and Storage
+- Big Data and Big Data Management
+- Artificial Intelligence
+- Machine Learning
+- Career Pathways in Data Analytics
+
+## 📙 Midterm
+
+- Selecting Appropriate Chart Types
+- Data Visualization and Design
+- Purposeful Use of Color
+- Visualizing Variability
+
+## 📗 Final
+
+- Exploring Data Visually
+- Explaining Data Through Visualization
+- Data Dashboards
+- Ethical Data Visualization
+- Data Storytelling
 
 ---
 
 # 💻 Programming Language
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80"/>
-</p>
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
 
 ### Python
 
@@ -55,39 +106,71 @@ Throughout this course, I aim to:
 
 ---
 
+# 🛠️ Tools & Technologies
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" alt="Python"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" alt="Git"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" alt="GitHub"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" alt="VS Code"/>
+
+</div>
+
+<div align="center">
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Data Analysis & Programming |
+| 📝 VS Code | Code Editor |
+| 🌿 Git | Version Control |
+| 📂 GitHub | Repository Hosting |
+
+</div>
+
+> Technologies listed may be updated as additional tools and libraries are introduced throughout the semester.
+
+---
+
 # 📂 Repository Structure
 
 ```text
-📦 Visualizations-and-Data-Analysis
+📦 CPE031-Visualizations-and-Data-Analysis
 │
 ├── 📁 Laboratory Activities
 ├── 📁 Assignments
 ├── 📁 Projects
 ├── 📁 Datasets
 ├── 📁 Visualizations
+├── 📁 Dashboards
 └── 📄 README.md
 ```
 
 ---
 
-# 📚 Topics Covered
+# 📌 Repository Progress
 
-- Data Collection
-- Data Cleaning
-- Data Preparation
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Descriptive Statistics
-- Charts and Graphs
-- Data Interpretation
+| Module | Status |
+|----------|----------|
+| Prelim Activities | ⏳ In Progress |
+| Midterm Activities | ⏳ Upcoming |
+| Final Activities | ⏳ Upcoming |
+| Projects | ⏳ Upcoming |
 
 ---
 
-# 📬 Contact Information
+# 📧 Contact
 
-📧 **TIP Email:** qnmendoza@tip.edu.ph
+**TIP Email**
 
-📧 **Personal Email:** psyemerald58@gmail.com
+📩 qnmendoza@tip.edu.ph
+
+**Personal Email**
+
+📩 psyemerald58@gmail.com
 
 ---
 
@@ -95,8 +178,8 @@ Throughout this course, I aim to:
 
 ## ⭐ Thank You for Visiting!
 
-If you're checking out this repository, I hope you find my work organized, informative, and useful.
+This repository will continue to grow as I complete activities throughout the semester.
 
-*"Turning raw data into meaningful insights through visualization."*
+*"Every dataset tells a story—good visualization helps others understand it."*
 
 </div>

@@ -1,11 +1,102 @@
-<h1 align="center">Hello! I'm Mendoza, Nathaniel B.</h1>
-<h3 align="center">A Computer Engineering Student at Technological Institute of The Philippines</h3>
+<div align="center">
 
-- Currently Learning: **Python, C++**
+# 📊 Visualizations and Data Analysis
 
-- Reach me **qnmendoza@tip.edu.ph/psyemerald58@gmail.com**
+### *Course Portfolio & Laboratory Activities*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/Course-Visualizations%20%26%20Data%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natmendoza&" alt="natmendoza" /></p>
+---
+
+# 👋 Hello! I'm **Mendoza, Nathaniel B.**
+
+### 🎓 Computer Engineering Student
+### Technological Institute of the Philippines - Quezon City
+
+*"Exploring data, discovering insights, and transforming information into meaningful visualizations."*
+
+</div>
+
+---
+
+# 📖 About This Repository
+
+This repository contains my outputs for the **Visualizations and Data Analysis** course. It serves as a portfolio of my laboratory exercises, assignments, programming activities, and projects completed throughout the semester.
+
+As the course progresses, this repository will continue to grow with new activities, datasets, and data visualization projects.
+
+---
+
+# 🎯 Course Objectives
+
+Throughout this course, I aim to:
+
+- 📈 Analyze real-world datasets
+- 📊 Create informative visualizations
+- 🧹 Clean and prepare data for analysis
+- 📚 Interpret data using statistical methods
+- 🐍 Strengthen my Python programming skills
+- 💡 Develop problem-solving techniques through data analysis
+
+---
+
+# 💻 Programming Language
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80"/>
+</p>
+
+<div align="center">
+
+### Python
+
+</div>
+
+---
+
+# 📂 Repository Structure
+
+```text
+📦 Visualizations-and-Data-Analysis
+│
+├── 📁 Laboratory Activities
+├── 📁 Assignments
+├── 📁 Projects
+├── 📁 Datasets
+├── 📁 Visualizations
+└── 📄 README.md
+```
+
+---
+
+# 📚 Topics Covered
+
+- Data Collection
+- Data Cleaning
+- Data Preparation
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Charts and Graphs
+- Data Interpretation
+
+---
+
+# 📬 Contact Information
+
+📧 **TIP Email:** qnmendoza@tip.edu.ph
+
+📧 **Personal Email:** psyemerald58@gmail.com
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting!
+
+If you're checking out this repository, I hope you find my work organized, informative, and useful.
+
+*"Turning raw data into meaningful insights through visualization."*
+
+</div>

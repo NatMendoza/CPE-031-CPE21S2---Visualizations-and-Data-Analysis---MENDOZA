@@ -176,6 +176,8 @@ By the end of the course, I aim to:
 
 ## ⭐ Thank You for Visiting!
 
+<img width="373" height="209" alt="chrysos" src="https://github.com/user-attachments/assets/ed5e645e-838b-4582-af12-b6c7b2c6e667" />
+
 This repository will continue to grow as I complete activities throughout the semester.
 
 *"Every dataset tells a story—good visualization helps others understand it."*

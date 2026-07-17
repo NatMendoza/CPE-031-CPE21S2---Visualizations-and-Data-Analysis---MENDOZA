@@ -12,8 +12,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NatMendoza&label=Repository%20Views&color=0e75b6&style=for-the-badge"/>
-
 ---
 
 # 👋 Hello! I'm **Nathaniel B. Mendoza**

@@ -20,7 +20,7 @@
 
 **Technological Institute of the Philippines – Quezon City**
 
-*"Transforming raw data into meaningful insights through visualization and analysis."*
+*"Knowledge is the beginning of every journey."*
 
 </div>
 
@@ -180,6 +180,6 @@ By the end of the course, I aim to:
 
 This repository will continue to grow as I complete activities throughout the semester.
 
-*"Every dataset tells a story—good visualization helps others understand it."*
+*"Knowledge is earned through questioning, not assumption."*
 
 </div>

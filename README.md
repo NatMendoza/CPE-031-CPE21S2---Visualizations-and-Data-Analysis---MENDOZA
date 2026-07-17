@@ -136,7 +136,7 @@ By the end of the course, I aim to:
 # 📂 Repository Structure
 
 ```text
-📦 CPE031-Visualizations-and-Data-Analysis
+📦 CPE031-Visualizations-and-Data-Analysis (TO BE UPDATED)
 │
 ├── 📁 Laboratory Activities
 ├── 📁 Assignments
